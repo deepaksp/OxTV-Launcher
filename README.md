@@ -1,7 +1,8 @@
 # OxTV Launcher
 
 **Google Play:**
-https://play.google.com/store/apps/details?id=dev.iamdeepak.oxtvlauncher\
+https://play.google.com/store/apps/details?id=dev.iamdeepak.oxtvlauncher
+
 
 ## About this app
 
@@ -11,6 +12,8 @@ interface and powerful Android customization.
 Transform your Android TV home screen with a modern launcher inspired by
 the simplicity and smooth navigation of tvOS, while keeping the
 flexibility and customization Android users expect.
+
+<img width="1920" height="1080" alt="Screenshot_20261014_163028" src="https://github.com/user-attachments/assets/8245b20d-f3a6-4252-83c2-864c41576868" />
 
 ### Minimal Experience
 
