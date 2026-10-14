@@ -1,4 +1,4 @@
-# OxTV Launcher
+# OxTV Android TV Launcher
 
 **Google Play:**
 https://play.google.com/store/apps/details?id=dev.iamdeepak.oxtvlauncher
@@ -12,6 +12,8 @@ interface and powerful Android customization.
 Transform your Android TV home screen with a modern launcher inspired by
 the simplicity and smooth navigation of tvOS, while keeping the
 flexibility and customization Android users expect.
+
+The apk size is less then 3MB
 
 <img width="1920" height="1080" alt="Screenshot_20261014_163028" src="https://github.com/user-attachments/assets/8245b20d-f3a6-4252-83c2-864c41576868" />
 
@@ -39,8 +41,6 @@ flexibility and customization Android users expect.
 -   Dark and light themes
 -   Custom app icons
 -   Icon pack support
--   Rename apps
--   Hide apps
 
 ### App Management
 
@@ -83,7 +83,6 @@ Make the launcher fit your TV and your preferences.
 The launcher is designed to run smoothly across a wide range of Android
 TV hardware, from low-memory TVs to powerful TV boxes.
 
-**APK size:** Under 3 MB
 
 > Simple enough to use every day. Powerful enough to make your Android
 > TV truly yours.
@@ -94,34 +93,3 @@ TV hardware, from low-memory TVs to powerful TV boxes.
     apps.
 2.  Some features, such as custom app icons, require a one-time premium
     upgrade.
-
-### Accessibility Service Notice
-
-OxTV Launcher includes an optional accessibility service, solely used to
-improve navigation by allowing custom actions via remote control
-shortcuts. No data is collected or shared.
-
-Bring a clean, modern, tvOS-inspired experience to Android TV while
-keeping the customization, flexibility, and control of Android.
-
-Minimal Home App with lots customization, built for a smooth experience.
-
-## Data safety
-
-According to the developer-provided information on Google Play:
-
--   No data shared with third parties
--   No data collected
--   Committed to follow the Google Play Families Policy
-
-
-## App support
-
--   **Website:** https://iamdeepak.dev
--   **Support email:** contact at iamdeepak.dev
--   **Privacy policy:** https://oxtv.iamdeepak.dev
-
-------------------------------------------------------------------------
-
-*Source: [OxTV Launcher on Google
-Play](https://play.google.com/store/apps/details?id=dev.iamdeepak.oxtvlauncher)*
